@@ -1,0 +1,5 @@
+E:\Farouk\ITI\C#.Net\Lab4f\Lab4f\obj\Debug\net6.0\Lab4f.csproj.AssemblyReference.cache
+E:\Farouk\ITI\C#.Net\Lab4f\Lab4f\obj\Debug\net6.0\Lab4f.GeneratedMSBuildEditorConfig.editorconfig
+E:\Farouk\ITI\C#.Net\Lab4f\Lab4f\obj\Debug\net6.0\Lab4f.AssemblyInfoInputs.cache
+E:\Farouk\ITI\C#.Net\Lab4f\Lab4f\obj\Debug\net6.0\Lab4f.AssemblyInfo.cs
+E:\Farouk\ITI\C#.Net\Lab4f\Lab4f\obj\Debug\net6.0\Lab4f.csproj.CoreCompileInputs.cache
